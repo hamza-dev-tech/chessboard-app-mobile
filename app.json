@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "chessboard-app",
+    "jsEngine": "jsc",
     "slug": "chessboard-app",
     "version": "1.0.0",
     "orientation": "portrait",
